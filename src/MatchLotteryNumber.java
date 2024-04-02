@@ -20,6 +20,7 @@ public class MatchLotteryNumber {
         return randomNums[2] == num3;
     }
 } //Remember to do a sort function cause this gives a logical error in the main class
+terwjwrfewreyrewrthewrf er3r
 
 
 
